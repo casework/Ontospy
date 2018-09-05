@@ -5,6 +5,8 @@ _For learning about the Unified Cyber Ontology, CASE's parent, see [UCO](https:/
 
 # OntoSpy
 
+**_Note: Ontospy was forked so that a static version of the tool could be obtained. The Python API's Autogeneration feature relies on this static version for parsing purposes (v0.1.0). In the future if this fork is to be updated from the original lambdamusic repository it may require updating the scripts._**
+
 Python toolkit for inspecting linked data knowledge models AKA ontologies or vocabularies.
 
 
