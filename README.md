@@ -5,7 +5,7 @@ _For learning about the Unified Cyber Ontology, CASE's parent, see [UCO](https:/
 
 # OntoSpy
 
-**_Note: Ontospy was forked so that a static version of the tool could be obtained. The Python API's Autogeneration feature relies on this static version for parsing purposes (v0.1.0). In the future if this fork is to be updated from the original lambdamusic repository it may require updating the scripts._**
+**_Note: OntoSpy was forked so that a static version of the tool could be obtained. The Python API's autogeneration relies on this static version for parsing purposes (v0.1.0). In the future if this fork is to be updated from the original lambdamusic repository it may require updating the scripts. Thus, when using OntoSpy for mapping or ontological purposes we suggest using the original repository._**
 
 Python toolkit for inspecting linked data knowledge models AKA ontologies or vocabularies.
 
@@ -21,3 +21,14 @@ The same functionalities are accessible also via a command line application (`on
 
 ### More info
 https://github.com/lambdamusic/OntoSpy/wiki
+
+# I have a question!
+
+Before you post a Github issue or send an email ensure you've done this checklist:
+
+1. [Determined scope](https://caseontology.org/ontology/start.html#scope) of your task. It is not necessary for most parties to understand all aspects of the ontology, mapping methods, and supporting tools.
+
+2. Familiarize yourself with the [labels](https://github.com/casework/Ontospy/labels) and search the [Issues tab](https://github.com/casework/Ontospy/issues). Typically, only light-blue and red labels should be used by non-admin Github users while the others should be used by CASE Github admins.
+*All but the red `Project` labels are found in every [`casework`](https://github.com/casework) repository.*
+
+3. This repository is a "preserved" fork that is used for backend autogeneration, etc. All feature/bug requests for the core functionality of the tool should be reported to the original repository. However, if it is something that is specific to CASE we _may_ add support a patch here.
